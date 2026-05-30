@@ -1,4 +1,4 @@
-# Projects I contributed to or made myself
+# Projects
 
   # Project 1: RPG Style Tower Progression Game (Team Project)
      - A progressive RPG tower style game where the player choses a class, answer riddles to fight enemies with different elemental attributes, and attempt to clear all five (5) floors including the boss floor.
